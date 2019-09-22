@@ -72,7 +72,6 @@ https://github.com/golang/go/wiki/Ubuntu
 
 ## skopeo
 
-＃ Ubuntu 18.04の場合
 ```
 
 # apt install libgpgme-dev libassuan-dev libdevmapper-dev libostree-dev
@@ -202,4 +201,9 @@ da984081082cb5b89995bcdac516ecfda73a917091d2d9f2670b3ba090134f42
 # Tutorial 2[Node.js]
 
 To Be..
+
+# Reference
+https://computingforgeeks.com/how-to-install-podman-on-ubuntu/
+https://developers.redhat.com/articles/podman-next-generation-linux-container-tools/
+https://developers.redhat.com/blog/2019/09/13/develop-with-node-js-in-a-container-on-red-hat-enterprise-linux/
 
