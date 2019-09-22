@@ -12,6 +12,10 @@ and easy tutorials.
 # Prerquirement
 - Ubuntu 18.04LTS
 
+# Notice
+
+There is a problem that Systemd doesn't work on WSL2 Ubuntu 18.04LTS, and podman doesn't work completely.
+
 # Installation
 
 ## Podman
